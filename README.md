@@ -133,8 +133,10 @@ python test_qing.py
 ```
 
 This runs the pipeline non-interactively on
-`清末民变年表_数据集_geo.xlsx` using province (`prov` / `prov_ch`) and prefecture
+my own geospatial dataset using province (`prov` / `prov_ch`) and prefecture
 (`pref` / `pref_ch`) columns and saves to `output/qing_event_map.html`.
+
+<img width="1385" height="723" alt="Sample" src="https://github.com/user-attachments/assets/b7e6c13b-ce0f-46c0-a6e6-2019cbb9e47c" />
 
 ------------------------------------------------------------------------
 
